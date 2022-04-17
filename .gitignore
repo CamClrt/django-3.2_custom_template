@@ -1,2 +1,4 @@
 .tox
 UNKNOWN.egg-info/
+.coverage
+htmlcov
