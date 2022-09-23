@@ -13,7 +13,7 @@ A custom Django template to quickstart new projects and avoid reinventing wheel 
 
 ## Environment
 
-In `src/config/settings/` add an `.env` file with your environment variables
+Add an `.env` file at the root of the project to manage your environment variables
 
 
 ## Run Locally
